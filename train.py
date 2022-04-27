@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title('st.file_uploader')
+st.title('st.file_uploader test git ')
 
 st.subheader('Input CSV')
 uploaded_file = st.file_uploader("Choose a file")
